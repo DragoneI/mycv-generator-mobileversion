@@ -1,10 +1,13 @@
 {
-  "name": "Mon CV",
-  "short_name": "CV",
-  "start_url": "index.html",
+  "name": "myCV",
+  "short_name": "myCV",
+  "start_url": "/index.html",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#6C63FF",
-  "theme_color": "#FFFFFF",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#6C63FF",
+  "dir": "ltr",
   "icons": [
     {
       "src": "icon-192.png",
